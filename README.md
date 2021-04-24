@@ -79,3 +79,11 @@ yarn start
 Wellington Mazoni de Andrade
 
 https://www.linkedin.com/in/wmazoni
+
+# OBSERVAÇÕES
+- Alterar a seção ABOUT para ter a descrição e o link do projeto
+- Para projetos Open Source colocar Seção COMO CONTRIBUIR
+- Uma seção para descrever as competências (Técnicas, padrões de projetos, camadas, integração com bibliotecas, etc)
+- Integrações
+- Features (Casos de uso implementados)
+- Agradecimentos (Empresas, Universidades, Cursos, pessoas que indicarão aos usuários com quem você deenvolveu o projeto, onde você trabalhava, estudava etc)
