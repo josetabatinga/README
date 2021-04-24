@@ -1,5 +1,5 @@
-forked from wmazoni/sds1
-alterado com ajuda do link citado
+- forked from wmazoni/sds1
+- alterado com ajuda do link citado
 
 # Como fazer o README? 
 ## Veja no link abaixo
