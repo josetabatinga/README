@@ -3,7 +3,7 @@
 ## https://www.youtube.com/channel/UC3twHmWQwtqEO7u-gB_2f7g
 
 # Big Game Survey 
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/devsuperior/sds1-wmazoni/blob/master/LICENSE) 
+[![NPM](https://img.shields.io/npm/l/react)]https://github.com/josetabatinga/README/blob/main/LICENSE 
 
 # Sobre o projeto
 
